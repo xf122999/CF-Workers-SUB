@@ -16,7 +16,6 @@ let MainData = `
 https://kwx.serv00.net/9da31009
 https://xf122.serv00.net/b5fa9814
 https://abc.xfi.us.kg/4b0dbefa-fae4-4447-a148-08004093a0f8
-https://SOS.CMLiussss.net/auto
 `
 
 let urls = [];
