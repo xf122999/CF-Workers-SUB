@@ -16,13 +16,7 @@ let MainData = `
 https://kwx.serv00.net/9da31009
 https://xf122.serv00.net/b5fa9814
 https://abc.xfi.us.kg/4b0dbefa-fae4-4447-a148-08004093a0f8
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+https://SOS.CMLiussss.net/auto
 `
 
 let urls = [];
