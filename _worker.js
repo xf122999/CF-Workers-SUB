@@ -13,7 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-hysteria2://10775163-f2d5-42b6-a24f-4febc1388268@128.204.223.98:16868?sni=www.bing.com&alpn=h3&insecure=1#S5-hysteria2
+hysteria2://10775163-f2d5-42b6-a24f-4febc1388268@128.204.223.98:16868?sni=www.bing.com&alpn=h3&insecure=1#S05-hysteria2
 hysteria2://23f49abe-144f-46e4-a0b2-4075c1e66558@85.194.246.69:16868?sni=www.bing.com&alpn=h3&insecure=1#S12-hysteria2
 https://abc.xfi.us.kg/324cb3b3-2322-4d00-b218-d1c640c3b618
 `
